@@ -68,16 +68,5 @@ Some of my contributions include work with projects such as **Visdom, Eventyay, 
 
 <br>
 
-## 🌱 What I'm Working Toward
-
-I'm currently focused on becoming a stronger software engineer and AI builder by:
-
-- Solving **DSA problems** consistently
-- Building **real-world** AI applications
-- Contributing to **open source**
-- Exploring software engineering **research**
-- Participating in **hackathons and developer programs**
-
-<br>
 
 
