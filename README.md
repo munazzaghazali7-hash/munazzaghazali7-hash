@@ -57,7 +57,26 @@ Some of my contributions include work with projects such as **Visdom, Eventyay, 
 ## 📊 GitHub Stats
 
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=munazzaghazali7-hash&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munazzaghazali7-hash&layout=compact&theme=radical&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=munazzaghazali7-hash&theme=radical&hide_border=true" alt="GitHub streak" /> </p> <br> <p align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=munazzaghazali7-hash&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munazzaghazali7-hash&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=munazzaghazali7-hash&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<p align="center">
+  <i>"Build. Break. Learn. Contribute. Repeat."</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/munazzaghazali7-hash">
+    github.com/munazzaghazali7-hash
+  </a>
+</p>
 
 ## 🌱 What I'm Working Toward
 
