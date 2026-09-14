@@ -22,7 +22,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student at **Moradabad Institute of Technology (AKTU)**
+- 🎓 B.Tech Computer Science & Engineering student at **Dr. APJ Abdul Kalam Technical University (AKTU)**
 - 🤖 Interested in **AI/ML, Generative AI, software engineering, and developer tools**
 - 🌟 **GSSoC Contributor — Top 2% out of 50,000+ participants**
 - 🌍 Open-source contributor working on **AI, developer tools, and web technologies**
