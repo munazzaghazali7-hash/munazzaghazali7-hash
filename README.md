@@ -58,51 +58,26 @@ Some of my contributions include work with projects such as **Visdom, Eventyay, 
 
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=munazzaghazali7-hash&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munazzaghazali7-hash&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=munazzaghazali7-hash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=munazzaghazali7-hash&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br>
 
 <p align="center">
   <i>"Build. Break. Learn. Contribute. Repeat."</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/munazzaghazali7-hash">
-    github.com/munazzaghazali7-hash
-  </a>
-</p>
+
+<br>
 
 ## 🌱 What I'm Working Toward
 
 I'm currently focused on becoming a stronger software engineer and AI builder by:
 
-Solving DSA problems consistently
-
-Building real-world AI applications
-
-Contributing to open source
-
-Exploring software engineering research
-
-Participating in hackathons and developer programs
-
-Preparing for software engineering and research internships
+- Solving **DSA problems** consistently
+- Building **real-world** AI applications
+- Contributing to **open source**
+- Exploring software engineering **research**
+- Participating in **hackathons and developer programs**
 
 <br>
-
-<p align="center">
-  <i>"Build. Break. Learn. Contribute. Repeat."</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/munazzaghazali7-hash">
-    github.com/munazzaghazali7-hash
-  </a>
 
 
